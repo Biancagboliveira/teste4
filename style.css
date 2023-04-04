@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&display=swap');
+h1{
+    text-align: center;
+    font-size: 6.6vw;
+    font-family: 'Merriweather', serif;
+}
+
+body{
+    background-image: url(https://images.unsplash.com/photo-1434494745656-1aea7daa8f6f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+}
+.relogio{
+    text-align: center;
+    border: 10px solid ;
+    border-radius: 100px;
+    background-color: white;
+    transition: 1s;
+    cursor: pointer;
+
+    margin: 590px;
+    margin-top: 10px;
+    
+    
+    color: black;
+    font-family: 'Merriweather', serif;
+    font-size: 2.5vw;
+   
+}
+
+.relogio:hover {
+    border: 10px solid;
+    background-color: rgb(151, 185, 151);
+    transition: 2s;
+}
+
+
+
+
+
+
+
+
+
